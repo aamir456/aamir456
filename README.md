@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aamir456
+- 👋 Hi, I’m aamir
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Angular 10 using Angular Material
 - 💞️ I’m looking to collaborate on my development aspects
